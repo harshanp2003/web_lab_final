@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['reset']))
     </textarea>
         <div>
             <button type="submit">Submit</button>
-            <button type="reset">Reset</button>
+          
         </div>
     </form>
 
